@@ -1,1 +1,1 @@
-# Incomplete
+The program entered the integer n, printed the screen inadequate numbers, rich numbers in numbers from 1 to n. Knowing that the number is incomplete is its sum of its estimates (excluding it) smaller than it. The wealthy number is the number of its sum (excluding it) greater than it.
